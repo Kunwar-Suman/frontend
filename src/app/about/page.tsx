@@ -13,7 +13,7 @@ const page = () => {
     <div className="h-full w-full relative flex flex-col items-start gap-5 overflow-hidden">
       <Badge variant="secondary" className="gap-1.5 py-1 ">
         <User2 className="h-4 w-4" />
-        About me
+        About me!
       </Badge>
       <div className="flex flex-col gap-5">
         <Heading>
