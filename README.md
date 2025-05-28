@@ -2,8 +2,6 @@
 
 A simple and Beautiful Porfolio made with Nextjs and Shadcn Ui.
 
-![Demo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u7eq68h0uvs6xqgw3yqe.jpeg)
-
 ## Getting Started
 
 First, run the development server:
@@ -24,14 +22,6 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Configuration
-
-This project uses a centralized configuration approach for all personal information. The main configuration file is located at:
-
-```
-src/config/portfolio.config.ts
-```
-
 ### Configuration Structure
 
 The configuration file contains the following sections:
@@ -45,10 +35,6 @@ The configuration file contains the following sections:
 - **Education**: Academic background and qualifications
 - **Projects**: Portfolio of projects with descriptions and links
 - **More Links**: Additional external links and resources
-
-### Customizing Your Portfolio
-
-To personalize the portfolio, simply edit the values in the `portfolio.config.ts` file. All changes will be reflected throughout the site automatically without having to modify multiple files.
 
 Example usage in a component:
 
