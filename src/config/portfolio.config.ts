@@ -322,6 +322,6 @@ export const portfolioConfig = {
 
   // API Keys (should be in .env but referenced here)
   apiKeys: {
-    resendApiKey: "YOUR_RESEND_API_KEY", // This should be loaded from environment variables in a real app
+    resendApiKey: "RESEND_API_KEY", // This should be loaded from environment variables in a real app
   },
 };
